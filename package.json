@@ -1,0 +1,24 @@
+{
+    "name": "to-do-node",
+    "version": "1.0.0",
+    "description": "simple node app which i will deploy using Jenkins and GitHub integration.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "express": "^4.21.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/canigetabeer/to-do-node.git"
+    },
+    "bugs": {
+        "url": "https://github.com/canigetabeer/to-do-node/issues"
+    },
+    "homepage": "https://github.com/canigetabeer/to-do-node#readme"
+}
