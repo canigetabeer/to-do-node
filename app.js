@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 // In-memory database (you can replace it with a real database like MongoDB or SQLite later)
 let todos = [];
-console.log("hi there")
+
 
 // Get all todos
 app.get('/todos', (req, res) => {
